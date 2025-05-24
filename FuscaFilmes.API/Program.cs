@@ -11,11 +11,6 @@ builder.Services.AddDbContext<Context>(
     options => options.UseSqlite(builder.Configuration["ConnectionStrings:FuscaFilmesStr"])
 );
 
-// using (var context = new Context())
-// {
-//     context.Database.EnsureCreated();
-// }
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.Configure<JsonOptions>(options =>
