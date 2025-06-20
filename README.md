@@ -46,4 +46,4 @@ Objetivo: Gerenciar o acesso ao banco de dados, migrations e regras de persistê
 ## Como Usar
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/GuicesarS/FuscaFilmesAPI.git
+   git clone https://github.com/GuicesarS/EFCore-API.git
