@@ -62,8 +62,3 @@ git clone https://github.com/GuicesarS/EFCore-API.git
 ---
 
 📄 Disponível em: [Inglês](README.md) 
-
-```
-
-Se quiser que eu já te envie os dois arquivos prontos para colar no GitHub (em `.md`), é só me avisar.
-```
